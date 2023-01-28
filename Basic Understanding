@@ -1,0 +1,2 @@
+If the beam reads from a source which is bounded i.e pcollection, database, collection then it considers it as a batch job.
+If the beam reads data from a queue service like pubsub it considers it as a streaming job.
